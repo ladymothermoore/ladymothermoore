@@ -1,1 +1,28 @@
+<div style="text-align: center; font-family: Arial, sans-serif; margin: 20px;">
+  <!-- Space-Themed Header -->
+  <h3 style="color: white; background: linear-gradient(to right, #1a237e, #4a148c); padding: 10px; border-radius: 10px; font-size: 18px; margin-bottom: 20px;">
+    🌌 About Me 🌌
+  </h3>
+
+  <!-- About Me Content -->
+  <p style="font-size: 16px; color: #333; line-height: 1.6; background-color: #f9f9f9; padding: 15px; border-radius: 10px; border: 1px solid #ccc;">
+    🌟 Aspiring electrical engineer<br>
+    ✍️ Writer and avid reader<br>
+    📚 Interested in Arabic, English, and French literature mostly<br>
+    <strong>Feel free to share your thoughts about yourself in the comments below!</strong>
+  </p>
+
+  <!-- Space-Themed Button to Comments -->
+  <a href="#comments" 
+     style="margin-top: 20px; display: inline-block; padding: 15px 30px; background: linear-gradient(to right, #4a148c, #1a237e); color: white; text-decoration: none; border-radius: 25px; font-size: 16px; transition: transform 0.2s ease-in-out;">
+    Leave a Comment!
+  </a>
+
+  <style>
+    /* Button hover effect */
+    a[href="#comments"]:hover {
+      transform: scale(1.05);
+    }
+  </style>
+</div>
 
